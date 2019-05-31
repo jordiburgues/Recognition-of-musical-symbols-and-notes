@@ -1,0 +1,624 @@
+item {
+  id: 1
+  name: 'brace'
+}
+
+item {
+  id: 2
+  name: 'repeatDot'
+}
+
+item {
+  id: 3
+  name: 'segno'
+}
+
+item {
+  id: 4
+  name: 'coda'
+}
+
+item {
+  id: 5
+  name: 'gClef'
+}
+
+item {
+  id: 6
+  name: 'cClefAlto'
+}
+
+item {
+  id: 7
+  name: 'cClefTenor'
+}
+
+item {
+  id: 8
+  name: 'fClef'
+}
+
+item {
+  id: 9
+  name: 'unpitchedPercussionClef1'
+}
+
+item {
+  id: 10
+  name: 'gClefChange'
+}
+
+item {
+  id: 11
+  name: 'cClefAltoChange'
+}
+
+item {
+  id: 12
+  name: 'cClefTenorChange'
+}
+
+item {
+  id: 13
+  name: 'fClefChange'
+}
+
+item {
+  id: 14
+  name: 'clef8'
+}
+
+item {
+  id: 15
+  name: 'clef15'
+}
+
+item {
+  id: 16
+  name: 'timeSig0'
+}
+
+item {
+  id: 17
+  name: 'timeSig1'
+}
+
+item {
+  id: 18
+  name: 'timeSig2'
+}
+
+item {
+  id: 19
+  name: 'timeSig3'
+}
+
+item {
+  id: 20
+  name: 'timeSig4'
+}
+
+item {
+  id: 21
+  name: 'timeSig5'
+}
+
+item {
+  id: 22
+  name: 'timeSig6'
+}
+
+item {
+  id: 23
+  name: 'timeSig7'
+}
+
+item {
+  id: 24
+  name: 'timeSig8'
+}
+
+item {
+  id: 25
+  name: 'timeSig9'
+}
+
+item {
+  id: 26
+  name: 'timeSig12'
+}
+
+item {
+  id: 27
+  name: 'timeSig16'
+}
+
+item {
+  id: 28
+  name: 'timeSigCommon'
+}
+
+item {
+  id: 29
+  name: 'timeSigCutCommon'
+}
+
+item {
+  id: 30
+  name: 'noteheadBlack'
+}
+
+item {
+  id: 31
+  name: 'noteheadBlackSmall'
+}
+
+item {
+  id: 32
+  name: 'noteheadHalf'
+}
+
+item {
+  id: 33
+  name: 'noteheadHalfSmall'
+}
+
+item {
+  id: 34
+  name: 'noteheadWhole'
+}
+
+item {
+  id: 35
+  name: 'noteheadWholeSmall'
+}
+
+item {
+  id: 36
+  name: 'noteheadDoubleWhole'
+}
+
+item {
+  id: 37
+  name: 'noteheadDoubleWholeSmall'
+}
+
+item {
+  id: 38
+  name: 'augmentationDot'
+}
+
+item {
+  id: 39
+  name: 'flag8thUp'
+}
+
+item {
+  id: 40
+  name: 'flag8thUpSmall'
+}
+
+item {
+  id: 41
+  name: 'flag16thUp'
+}
+
+item {
+  id: 42
+  name: 'flag32ndUp'
+}
+
+item {
+  id: 43
+  name: 'flag64thUp'
+}
+
+item {
+  id: 44
+  name: 'flag128thUp'
+}
+
+item {
+  id: 45
+  name: 'flag8thDown'
+}
+
+item {
+  id: 46
+  name: 'flag8thDownSmall'
+}
+
+item {
+  id: 47
+  name: 'flag16thDown'
+}
+
+item {
+  id: 48
+  name: 'flag32ndDown'
+}
+
+item {
+  id: 49
+  name: 'flag64thDown'
+}
+
+item {
+  id: 50
+  name: 'flag128thDown'
+}
+
+item {
+  id: 51
+  name: 'accidentalFlat'
+}
+
+item {
+  id: 52
+  name: 'accidentalFlatSmall'
+}
+
+item {
+  id: 53
+  name: 'accidentalNatural'
+}
+
+item {
+  id: 54
+  name: 'accidentalNaturalSmall'
+}
+
+item {
+  id: 55
+  name: 'accidentalSharp'
+}
+
+item {
+  id: 56
+  name: 'accidentalSharpSmall'
+}
+
+item {
+  id: 57
+  name: 'accidentalDoubleSharp'
+}
+
+item {
+  id: 58
+  name: 'accidentalDoubleFlat'
+}
+
+item {
+  id: 59
+  name: 'keyFlat'
+}
+
+item {
+  id: 60
+  name: 'keyNatural'
+}
+
+item {
+  id: 61
+  name: 'keySharp'
+}
+
+item {
+  id: 62
+  name: 'articAccentAbove'
+}
+
+item {
+  id: 63
+  name: 'articAccentBelow'
+}
+
+item {
+  id: 64
+  name: 'articStaccatoAbove'
+}
+
+item {
+  id: 65
+  name: 'articStaccatoBelow'
+}
+
+item {
+  id: 66
+  name: 'articTenutoAbove'
+}
+
+item {
+  id: 67
+  name: 'articTenutoBelow'
+}
+
+item {
+  id: 68
+  name: 'articStaccatissimoAbove'
+}
+
+item {
+  id: 69
+  name: 'articStaccatissimoBelow'
+}
+
+item {
+  id: 70
+  name: 'articMarcatoAbove'
+}
+
+item {
+  id: 71
+  name: 'articMarcatoBelow'
+}
+
+item {
+  id: 72
+  name: 'fermataAbove'
+}
+
+item {
+  id: 73
+  name: 'fermataBelow'
+}
+
+item {
+  id: 74
+  name: 'caesura'
+}
+
+item {
+  id: 75
+  name: 'restMaxima'
+}
+
+item {
+  id: 76
+  name: 'restLonga'
+}
+
+item {
+  id: 77
+  name: 'restDoubleWhole'
+}
+
+item {
+  id: 78
+  name: 'restWhole'
+}
+
+item {
+  id: 79
+  name: 'restHalf'
+}
+
+item {
+  id: 80
+  name: 'restQuarter'
+}
+
+item {
+  id: 81
+  name: 'rest8th'
+}
+
+item {
+  id: 82
+  name: 'rest16th'
+}
+
+item {
+  id: 83
+  name: 'rest32nd'
+}
+
+item {
+  id: 84
+  name: 'rest64th'
+}
+
+item {
+  id: 85
+  name: 'rest128th'
+}
+
+item {
+  id: 86
+  name: 'restHBar'
+}
+
+item {
+  id: 87
+  name: 'dynamicPiano'
+}
+
+item {
+  id: 88
+  name: 'dynamicMezzo'
+}
+
+item {
+  id: 89
+  name: 'dynamicForte'
+}
+
+item {
+  id: 90
+  name: 'dynamicPPPPP'
+}
+
+item {
+  id: 91
+  name: 'dynamicPPPP'
+}
+
+item {
+  id: 92
+  name: 'dynamicPPP'
+}
+
+item {
+  id: 93
+  name: 'dynamicPP'
+}
+
+item {
+  id: 94
+  name: 'dynamicMP'
+}
+
+item {
+  id: 95
+  name: 'dynamicMF'
+}
+
+item {
+  id: 96
+  name: 'dynamicFF'
+}
+
+item {
+  id: 97
+  name: 'dynamicFFF'
+}
+
+item {
+  id: 98
+  name: 'dynamicFFFF'
+}
+
+item {
+  id: 99
+  name: 'dynamicFFFFF'
+}
+
+item {
+  id: 100
+  name: 'dynamicFortePiano'
+}
+
+item {
+  id: 101
+  name: 'dynamicSforzando1'
+}
+
+item {
+  id: 102
+  name: 'dynamicSforzato'
+}
+
+item {
+  id: 103
+  name: 'dynamicRinforzando2'
+}
+
+item {
+  id: 104
+  name: 'graceNoteAcciaccaturaStemUp'
+}
+
+item {
+  id: 105
+  name: 'graceNoteAppoggiaturaStemUp'
+}
+
+item {
+  id: 106
+  name: 'graceNoteAcciaccaturaStemDown'
+}
+
+item {
+  id: 107
+  name: 'graceNoteAppoggiaturaStemDown'
+}
+
+item {
+  id: 108
+  name: 'ornamentTrill'
+}
+
+item {
+  id: 109
+  name: 'ornamentTurn'
+}
+
+item {
+  id: 110
+  name: 'ornamentTurnInverted'
+}
+
+item {
+  id: 111
+  name: 'ornamentMordent'
+}
+
+item {
+  id: 112
+  name: 'stringsDownBow'
+}
+
+item {
+  id: 113
+  name: 'stringsUpBow'
+}
+
+item {
+  id: 114
+  name: 'arpeggiato'
+}
+
+item {
+  id: 115
+  name: 'keyboardPedalPed'
+}
+
+item {
+  id: 116
+  name: 'keyboardPedalUp'
+}
+
+item {
+  id: 117
+  name: 'tuplet3'
+}
+
+item {
+  id: 118
+  name: 'tuplet6'
+}
+
+item {
+  id: 119
+  name: 'fingering0'
+}
+
+item {
+  id: 120
+  name: 'fingering1'
+}
+
+item {
+  id: 121
+  name: 'fingering2'
+}
+
+item {
+  id: 122
+  name: 'fingering3'
+}
+
+item {
+  id: 123
+  name: 'fingering4'
+}
+
+item {
+  id: 124
+  name: 'fingering5'
+}
+
+item {
+  id: 125
+  name: 'nothing'
+}
